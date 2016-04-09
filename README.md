@@ -10,6 +10,6 @@ Se propone la siguiente solución: <layout_osscar_jdp.html>
 
 La siguiente es una captura de pantalla de cómo se ve la solución:
 
-![Imagen que muestra una captura de pantalla de la solución.](requerimientos.jpg)
+![Imagen que muestra una captura de pantalla de la solución.](respuesta.png)
 
 Debe notarse que la solución propuesta no usa "flexbox" debido a la complejidad de esta tecnología para un principiante. Además se ha validado la solución utilizando <https://validator.w3.org/>.
