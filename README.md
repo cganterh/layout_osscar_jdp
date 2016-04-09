@@ -6,9 +6,9 @@ En su pregunta, OSscar especifica que el layout debe verse de la siguiente maner
 
 ![Imagen que especifica con lineas negras la forma que tiene que tener el layout.](requerimientos.jpg)
 
-Se propone la siguiente solución: <layout_osscar_jdp.html>
+Se propone la siguiente solución: [layout_osscar_jdp.html](layout_osscar_jdp.html).
 
-La siguiente es una captura de pantalla de cómo se ve la solución:
+Aquí se muestra una captura de pantalla de cómo se ve la solución:
 
 ![Imagen que muestra una captura de pantalla de la solución.](respuesta.png)
 
