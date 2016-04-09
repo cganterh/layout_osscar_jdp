@@ -6,8 +6,10 @@ En su pregunta, OSscar especifica que el layout debe verse de la siguiente maner
 
 ![Imagen que especifica con lineas negras la forma que tiene que tener el layout.](requerimientos.jpg)
 
-Se propone la siguiente solución:
+Se propone la siguiente solución: <layout_osscar_jdp.html>
 
-<iframe src="layout_osscar_jdp.html" width="100%" height="50vh"></iframe>
+La siguiente es una captura de pantalla de cómo se ve la solución:
 
-Debe notarse que la solución propuesta no usa "flexbox" debido a la complejidad de esta tecnología para un principiante.
+![Imagen que muestra una captura de pantalla de la solución.](requerimientos.jpg)
+
+Debe notarse que la solución propuesta no usa "flexbox" debido a la complejidad de esta tecnología para un principiante. Además se ha validado la solución utilizando <https://validator.w3.org/>.
